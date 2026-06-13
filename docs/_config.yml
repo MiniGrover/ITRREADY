@@ -1,0 +1,7 @@
+title: ITRReady
+description: Zerodha Tax P&L to ITR Schedule CG / BP figures in 30 seconds. Free beta for CAs.
+theme: jekyll-theme-cayman
+url: https://minigrover.github.io
+baseurl: /ITRREADY
+plugins:
+  - jekyll-seo-tag
