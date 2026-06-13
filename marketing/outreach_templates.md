@@ -22,7 +22,7 @@
 >
 > I built a small tool that turns a Zerodha Tax P&L XLSX into ITR-ready capital-gains figures — Section 111A / 112A numbers, deductible charges with STT properly excluded, per-scrip LTCG with grandfathering. About 30 seconds per client file instead of 30 minutes.
 >
-> Free during beta — no signup, no payment: [link]
+> Free during beta — no signup, no payment: https://itrready-dirxr3fop2qs9sfsgkctkm.streamlit.app/
 >
 > Would you be open to trying it with one of your client files and telling me what breaks? Genuinely looking for feedback, not pitching.
 >
@@ -44,7 +44,7 @@
 
 ## Twitter/X DM (more casual)
 
-> Hey [@handle] — saw your thread on [specific tweet they posted about tax filing pain]. Built a tool for exactly that. Turns the Zerodha XLSX into ITR-ready numbers in 30 sec. Free for first 3 files: [link]. Would love your roast.
+> Hey [@handle] — saw your thread on [specific tweet they posted about tax filing pain]. Built a tool for exactly that. Turns the Zerodha XLSX into ITR-ready numbers in 30 sec. Free for first 3 files: https://itrready-dirxr3fop2qs9sfsgkctkm.streamlit.app/. Would love your roast.
 
 **Why this works:** reference a specific tweet of theirs (don't copy-paste). Calling it "roast" lowers the stakes.
 
@@ -54,7 +54,7 @@
 
 > Folks — built a side project that takes a Zerodha Tax P&L XLSX and outputs ITR-ready numbers (Sec 111A / 112A, per-scrip LTCG with FMV, deductible charges with STT excluded).
 >
-> Free for 3 client files: [link]
+> Free for 3 client files: https://itrready-dirxr3fop2qs9sfsgkctkm.streamlit.app/
 >
 > Looking for 10 CAs to break it and tell me what's wrong. DM if interested or just try it directly — no signup. Won't post in this group again.
 
@@ -84,7 +84,7 @@ What it doesn't do (yet):
 
 Free during beta — no signup, no payment, no data stored. Paid plans (₹2,999/season) launch once the beta validates demand; beta users get 12 months free after launch.
 
-Link: [URL]
+Link: https://itrready-dirxr3fop2qs9sfsgkctkm.streamlit.app/
 
 Genuinely want feedback on what's wrong. If a number doesn't match what you'd file, that's a bug I want to fix.
 

@@ -72,7 +72,7 @@ Paid plans (₹2,999/season unlimited) launch once the beta validates the produc
 ## FAQ
 
 **Which broker files do you support?**
-Zerodha Tax P&L XLSX only, v1. ICICI Direct, Groww, Upstox, Angel One coming if there is demand — vote here: [Google form link placeholder].
+Zerodha Tax P&L XLSX only, v1. ICICI Direct, Groww, Upstox, Angel One coming if there is demand — vote here: https://itrready-dirxr3fop2qs9sfsgkctkm.streamlit.app/.
 
 **What about F&O / mutual funds / currency / commodity?**
 v1 is equity only (Intraday + STCG + LTCG). F&O comes next — it's a separate ITR section and has different turnover rules under ICAI 2014 guidance.
@@ -84,7 +84,7 @@ The tool uses Zerodha's own pre-computed Profit and Taxable Profit columns (whic
 Nowhere. The file is parsed in memory in your browser session and discarded when you close the tab. No database. No login. No PAN logged.
 
 **Refund policy**
-First 3 files free — try before you pay. After purchase: 7-day refund if the tool doesn't parse your client's file correctly. Email at [your-email].
+First 3 files free — try before you pay. After purchase: 7-day refund if the tool doesn't parse your client's file correctly. Email at minikochar8@gmail.com.
 
 ---
 
@@ -92,4 +92,4 @@ First 3 files free — try before you pay. After purchase: 7-day refund if the t
 
 Built by an independent developer. Not affiliated with Zerodha. Not tax advice — this is a productivity tool for licensed professionals. Always verify before filing.
 
-Contact: [your-email] / [Twitter handle]
+Contact: minikochar8@gmail.com / [Twitter handle]
